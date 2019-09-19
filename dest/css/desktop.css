@@ -1,0 +1,10 @@
+@media screen and (min-device-width: 1024px) {
+	.header-ul {
+		margin-right: -484px;
+		margin-top: 44px;
+	}
+	.drop-button {
+		padding: 60px 60px;
+	}
+
+}

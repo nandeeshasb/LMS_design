@@ -1,0 +1,32 @@
+@media screen and (min-device-width: 768px) {
+	.main-ul {
+		display: flex;
+		flex-direction: row;
+		float: right;
+	}
+	.main-ul li {
+		padding: 0 10px;
+	}
+	.hamburger {
+		display: none;
+	} 
+	.header-ul {
+		display: flex;
+		flex-direction: row;
+		float: right;
+		margin-top: -64px;
+	}
+	.header-ul li {
+		padding: 0 10px;
+	}
+	.logo {
+		margin-top: 50px;
+	}
+	.btn-view {
+		display: block;
+		
+	}
+	.drop-button {
+		padding: 60px 23px;
+	}
+}
