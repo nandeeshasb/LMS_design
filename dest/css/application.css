@@ -25,7 +25,6 @@ body {
 	background-size: cover;	
 	background-repeat: no-repeat;
 	height: 500px;
-
 }
 .hamburger {
 	color:#fff;
@@ -39,7 +38,7 @@ body {
 	padding-top: 30px;
 }
 .header-ul {
-	z-index: 2;
+	
 	display: none;
 	padding: 2px 10px;
 	text-transform: uppercase;
@@ -63,7 +62,7 @@ body {
 	text-indent: 30px;
 }
 .btn-register {
-	 width: 120px;
+	width: 120px;
 	background-color:#FF00FF; 
 }
 .btn-login {
@@ -86,14 +85,91 @@ body {
 .content-color-h4 {
 	color: #090e17;
 }
-.content-course h5,h6,p,span {
+.content-course h5,h6,span {
 	color: #090e17;
 	
+}
+#card-p {
+	color: #090e17;
 }
 .card-machine {
 	background-color: #bcc7d6;
 	border:none;
 }
 .fa1 {
-	color: #FFFF99;
+	color: #FFFF00;
+}
+.content-course {
+	padding-bottom: 50px;
+}
+.btn-button {
+	background-color:#FF00FF; 
+	margin-left: 104px;
+}
+.for-business {
+	text-align: center;
+	background: -webkit-linear-gradient(left, #000 40%, #FF0000 100%);
+	background: linear-gradient(left, #000 40%, #FF0000 100%);
+}
+.btn-for {
+	background-color: #00FFFF; 
+}
+.logo-comp img {
+	width: 60px;
+	height: 60px;
+}
+.client-head {
+	color: #000410;
+	text-align: center;
+}
+.top-course {
+	background-color:#C0C0C0; 
+	color: #000;
+}
+.rouder-border {
+	box-shadow: 2px 2px 2px 2px #666699;
+	border-radius: 5px;
+	height: 60px;
+	
+}
+.second-row {
+	display: none;
+}
+.btn-top-course {
+	background-color:#FF00FF;
+
+}
+.course-content {
+	background: -webkit-linear-gradient(left, #000 40%, #0000FF 100%);
+	background: linear-gradient(left, #000 40%, #0000FF 100%);
+}
+.course-content span {
+	color: #fff;
+}
+.img-photo {
+	height: 50px;
+	width: 50px;
+	border-radius: 50px;
+}
+.comments-div {
+	background-color: #CCCCFF;
+	display: none;
+}
+.carousel-item {
+	padding: 10px 120px;
+	text-align: center;
+}
+.comment-name {
+	margin-right: 50px;
+}
+.footer-background {
+	background-color: #000410;
+}
+.row-footer a{
+	color: #fff;
+	line-height: 2.7em;
+	font-weight: normal;
+}
+.row-footer {
+	text-align: center;
 }

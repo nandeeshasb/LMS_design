@@ -29,4 +29,38 @@
 	.drop-button {
 		padding: 60px 23px;
 	}
+	.btn-button {
+		float: right;
+	}
+	.btn-for {
+		float: right;
+		margin-top: 35px;
+	}
+	.client-head {
+		margin-top: 15px;
+	}
+	.img-photo {
+		height: 50px;
+		width: 50px;
+		border-radius: 50px;
+	}
+	.comments-div {
+		background-color: #CCCCFF;
+		display: block;
+	}
+	.carousel-item {
+		padding: 10px 120px;
+		text-align: center;
+	}
+	.comment-name {
+		margin-right: 50px;
+	}
+	.row-footer {
+		text-align: left;
+	}
+	.contact-address{
+		text-align: center;
+		
+	}
+
 }
